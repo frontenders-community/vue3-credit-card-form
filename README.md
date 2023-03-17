@@ -44,3 +44,8 @@ Al click di uno degli input deve essere evidenziato il campo corrispondente nell
 HTML, CSS/SASS, uno dei framework JS oppure JS plain.
 Per applicare la maschera ai valori di input si può usare una libreria.
 No librerie CSS.
+
+
+[demo.webm](https://user-images.githubusercontent.com/56634652/225955308-5ddfafe3-252d-4a20-9fdc-6db73cea2d78.webm)
+
+
